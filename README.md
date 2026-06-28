@@ -1,61 +1,5 @@
-<html>
-<head>
-<style>
-  .greeting-container {
-    font-size: 28px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    line-height: 1.6;
-  }
-  
-  .greeting {
-    color: #ff6b6b;
-    font-family: 'Courier New', monospace;
-  }
-  
-  .typing {
-    border-right: 3px solid #ff6b6b;
-    animation: blink 0.7s infinite;
-  }
-  
-  @keyframes blink {
-    0%, 49% { border-right-color: #ff6b6b; }
-    50%, 100% { border-right-color: transparent; }
-  }
-</style>
-</head>
-<body>
-
-<div class="greeting-container">
-  <div class="greeting" id="line1"></div>
-  <div class="greeting" id="line2"></div>
-</div>
-
-<script>
-  const line1Text = "Hii, I'm Govind Rathod";
-  const line2Text = "Welcome to my GitHub";
-  
-  let index1 = 0;
-  let index2 = 0;
-  
-  function typeWriter() {
-    // Type first line
-    if (index1 < line1Text.length) {
-      document.getElementById('line1').textContent += line1Text.charAt(index1);
-      index1++;
-      setTimeout(typeWriter, 80); // Speed of typing
-    } 
-    // After first line is done, type second line
-    else if (index2 < line2Text.length) {
-      document.getElementById('line2').textContent += line2Text.charAt(index2);
-      index2++;
-      setTimeout(typeWriter, 80);
-    }
-  }
-  
-  // Start animation when page loads
-  window.addEventListener('load', typeWriter);
-</script>
+# Hii, I'm Govind Rathod
+# Welcome to my GitHub
 
 ---
 
@@ -159,6 +103,3 @@ Most of my projects are open source. Please check individual repository licenses
 ---
 
 *Last Updated: June 2026*
-
-</body>
-</html>
