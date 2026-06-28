@@ -1,37 +1,7 @@
-# Hii, I'm Govind Rathod
-# Welcome to my GitHub
+# 👋 Hii, I'm Govind Rathod  
+# 🎉 Welcome to my GitHub
 
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes typing {
-        0% { width: 0; }
-        100% { width: 100%; }
-      }
-      @keyframes blink {
-        0%, 49% { opacity: 1; }
-        50%, 100% { opacity: 0; }
-      }
-      .typing-text {
-        font-size: 24px;
-        font-weight: bold;
-        color: #ff6b6b;
-        font-family: 'Courier New', monospace;
-        animation: typing 4s steps(30, end) 1s forwards;
-        width: 0;
-        overflow: hidden;
-      }
-      .cursor {
-        animation: blink 1s infinite 5.5s;
-      }
-    </style>
-  </defs>
-  
-  <text x="10" y="40" class="typing-text">Hii, I'm Govind Rathod</text>
-  <rect x="350" y="20" width="3" height="25" class="cursor" fill="#ff6b6b"/>
-  
-  <text x="10" y="80" class="typing-text" style="animation-delay: 5s;">Welcome to my GitHub</text>
-</svg>
+> *Passionate developer & AI enthusiast | Building innovative projects with Python, JavaScript & Machine Learning*
 
 ---
 
@@ -119,10 +89,10 @@
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects involving:
-- AI and Machine Learning
-- Web Development
-- DevOps and Cloud Technologies
-- Computer Vision Applications
+- 🤖 AI and Machine Learning
+- 💻 Web Development
+- 🐳 DevOps and Cloud Technologies
+- 👁️ Computer Vision Applications
 
 Feel free to reach out or explore my repositories!
 
