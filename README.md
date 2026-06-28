@@ -1,7 +1,7 @@
 # 👋 Hii, I'm Govind Rathod  
 # 🎉 Welcome to my GitHub
 
-> **Hi! I'm **Govind Rathod**, a passionate developer and AI enthusiast working on innovative projects across web development, machine learning, and DevOps.*
+> *Hi! I'm **Govind Rathod**, a passionate developer and AI enthusiast working on innovative projects across web development, machine learning, and DevOps.*
 
 
 ---
