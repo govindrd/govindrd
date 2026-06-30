@@ -48,6 +48,7 @@
   - Text extraction from images using state-of-the-art OCR technology
   - Supports multiple languages and handles various document formats and quality levels
   - Converts scanned documents and images into editable digital text
+---
 
 ### **Web Development**
 
@@ -86,7 +87,7 @@
   - Includes Docker compose for multi-container orchestration and environment management
 ---
 
----
+
 ### **Full Stack & Node.js**
 
 - **[File-Based Task Manager using Node.js and EJS](https://github.com/govindrd/File-Based-Task-Manager-using-Node.js-and-EJS)** - EJS
@@ -100,7 +101,7 @@
   - Implements multi-agent orchestration for complex content generation workflows
 
 ---
----
+
 
 ### **Front-End & Portfolio**
 
@@ -121,7 +122,7 @@
 
 ---
 
----
+
 
 ## 💡 Skills & Technologies
 
