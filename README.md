@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Featured Projects
-
+---
 ### **AI & Machine Learning**
 
 - **[Real-Time Multilingual Voice AI Agent for Clinical Appointment Booking](https://github.com/govindrd/Real-Time-Multilingual-Voice-AI-Agent-for-Clinical-Appointment-Booking)** - Python
@@ -29,6 +29,8 @@
   - Machine learning model for predicting real estate prices with high accuracy
   - Uses regression algorithms trained on comprehensive housing datasets with feature engineering
   - Includes data visualization and model evaluation metrics for transparency
+ 
+---
 
 ### **Computer Vision & Image Processing**
 
