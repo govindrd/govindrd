@@ -70,6 +70,8 @@
   - Professional authentication interface built with React and modern UI components
   - Includes form validation, password encryption, and secure user session management
   - Responsive design that works seamlessly across desktop and mobile devices
+    
+---
 
 ### **Backend & DevOps**
 
@@ -82,7 +84,9 @@
   - Containerized Flask application using Docker for consistent deployment environments
   - Implements Continuous Integration pipeline for automated testing and deployment
   - Includes Docker compose for multi-container orchestration and environment management
+---
 
+---
 ### **Full Stack & Node.js**
 
 - **[File-Based Task Manager using Node.js and EJS](https://github.com/govindrd/File-Based-Task-Manager-using-Node.js-and-EJS)** - EJS
@@ -94,6 +98,9 @@
   - AI-driven content generation system using autonomous agents
   - Leverages advanced language models to create diverse content types and formats
   - Implements multi-agent orchestration for complex content generation workflows
+
+---
+---
 
 ### **Front-End & Portfolio**
 
@@ -111,6 +118,8 @@
   - GitHub Pages hosted personal website for online presence and professional branding
   - Showcases portfolio projects, blog posts, and professional achievements
   - Optimized for search engines and mobile accessibility
+
+---
 
 ---
 
