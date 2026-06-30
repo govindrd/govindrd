@@ -137,7 +137,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub Followers](https://img.shields.io/github/followers/govindrd?style=social)](https://github.com/govindrd)
-[![GitHub Repos](https://img.shields.io/badge/Repositories-19+-blue)](https://github.com/govindrd?tab=repositories)
+[![GitHub Repos](https://img.shields.io/badge/Repositories-20+-blue)](https://github.com/govindrd?tab=repositories)
 
 ---
 
